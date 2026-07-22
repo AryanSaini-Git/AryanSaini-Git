@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Saini
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Front-end Web Development.
+- 🌱 Full-Stack Web Developer | React • Node.js • PostgreSQL | Always learning and building.
 - 📫 How to reach me Contact: +91 9057370390 , @mail: aryanssaini211@gmail.com
 
 <!---
